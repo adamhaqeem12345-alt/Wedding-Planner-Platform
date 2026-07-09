@@ -1,0 +1,6 @@
+{
+  "name": "Wedding Planner Platform",
+  "description": "A soft, intimate wedding planning platform with bespoke packages, client onboarding, consultation booking, real-time wedding countdowns, budget planners, and step-by-step checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
